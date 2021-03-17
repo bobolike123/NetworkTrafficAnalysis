@@ -23,8 +23,8 @@
 ```
 ## 注意
 * 由于源数据集达数十个G，不方便上传，下面是数据库的下载链接。项目内有预处理代码，感兴趣的可以研究。
-* 1）www.unb.ca/cic/datasets （CICIDS2017 and ISCXIDS2012）
-* 2) github.com/yungshenglu/USTC-TFC2016 (USTCTFC2016)
+* 1、 www.unb.ca/cic/datasets （CICIDS2017 and ISCXIDS2012）
+* 2、 github.com/yungshenglu/USTC-TFC2016 (USTCTFC2016)
 * 此外，源代码包括处理后的数据集，不包括权重文件。请通过数据集(dataset文件夹内)进行生成，生成的权重文件在checkpoints文件夹内
 
 ## 问题反馈
