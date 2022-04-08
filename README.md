@@ -36,6 +36,11 @@
 ## 感激
 如果觉得这篇文献和代码对您有帮助，希望能给这个项目点个star，同时也希望得到您的引用，引用格式在下面
 
+## 处理后的数据集
+应广大学者要求，现放出预处理过后神经网络训练用的数据集。前几步生成的中间文件因为生成的小文件过多不方便打包，若希望复现请请自行尝试。
+该数据集仅供参考，不代表论文中所用的数据集，因处理不当导致误差较大的，作者不对此负责。数据集有时间限制，若过期请联系邮箱。
+https://musetransfer.com/s/q6wyuw7v0（有效期至2023年4月8日）
+
 ## 文献引用
 ```text
 引用格式：B. Wang, Y. Su, M. Zhang and J. Nie, "A Deep Hierarchical Network for Packet-Level Malicious Traffic Detection,"
